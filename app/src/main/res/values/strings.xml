@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Options Categorizer</string>
+    <string name="title_activity_main">Options Categorizer</string>
+    <string name="package_name">com.options.categorizer</string>
+    <string name="custom_url_scheme">com.options.categorizer</string>
+</resources>
